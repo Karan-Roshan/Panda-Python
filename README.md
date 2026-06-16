@@ -136,5 +136,3 @@ This repository is a structured learning resource for the **Pandas** Python libr
 
 ## About
 This notebook was created as a personal learning project while studying the Pandas library. It serves as both a reference guide and a practice ground for data analysis with Python.
-
-Feel free to **fork**, **star ⭐**, or **contribute** if you find it helpful!
